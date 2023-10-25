@@ -139,27 +139,6 @@ section {
   justify-content: center;
 }
 
-h1 {
-  font-size: 2.5rem;
-  font-family: 'Rubik Dirt', cursive;
-}
-
-.seccion-oscura {
-  color: #F9F9F9;
-  background-color: #061826;
-}
-
-.seccion-clara {
-  color: #061826;
-  background-color: #F9F9F9;
-}
-
-.seccion-titulo {
-  font-size: 2rem;
-  padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
-}
-
 .seccion-descripcion {
   font-size: 1.2rem;
   color: #584e4e;
@@ -167,11 +146,6 @@ h1 {
 
 .seccion-texto {
   font-size: 1.2rem;
-}
-
-.btn-info {
-  font-size: 1.1rem;
-  margin: 20px;
 }
 
 .texto-negro {
@@ -182,8 +156,14 @@ h1 {
   color: #F9F9F9;
 }
 
-/* Experiencia */
+main .titulo {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3.5rem;
+  color: #0B36A3;
+  padding-bottom: 2rem;
+}
 
+/* Experiencia */
 .experiencia {
   padding: 40px 40px 60px 40px;
 }
@@ -205,8 +185,8 @@ h1 {
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #061826;
+  color: #D8E3FC;
+  background-color: #0B36A3;
   padding: 8px 19px;
   border-radius: 50%;
 }

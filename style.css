@@ -207,6 +207,7 @@ section {
 .sobre-mi {
   height: 500px;
   padding: 10px;
+  margin-bottom: -7%;
 }
 
 .sobre-mi .titulo-sobre-mi {
